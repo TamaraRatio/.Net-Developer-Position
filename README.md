@@ -1,11 +1,12 @@
-**# C-.Net-Developer-Position**
-Ratio is looking for a C#/.NET developer for a global company with head offices in Germany and the US.
+# **#C-.Net-Developer-Position** #
 
-*About Our Client:*
+## Ratio is looking for a C#/.NET developer for a global company with head offices in Germany and the US. ##
+
+### *About Our Client:*
 
 The company is a global developer of artificial intelligence technologies and solutions in the field of information processing and linguistics.
 
-**Requirements:**
+### **Requirements:**
 
 
 • .NET
@@ -30,7 +31,7 @@ It will be a plus:
 
 JScript and VBScript
 
-**Responsibilities:**
+### **Responsibilities:**
 
 • Implementation, fine-tuning and customization of software in line with customer needs and requirements
 
@@ -44,7 +45,7 @@ JScript and VBScript
 
 • Learning and the developing the SDK
 
-**About the project/product:**
+### **About the project/product:**
 
 The client creates intelligent technologies that help businesses and knowledge workers achieve greater efficiency and accelerate their decision-making. Ranging from scanning and document recognition to data capture and text analytics, their technologies integrate throughout the entire information lifecycle.
 
