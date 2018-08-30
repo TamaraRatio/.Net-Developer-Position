@@ -1,4 +1,4 @@
-# **#C#/.Net-Developer-Position** #
+# **C#/.Net-Developer-Position** #
 
 ## Ratio is looking for a C#/.NET developer for a global company with head offices in Germany and the US. ##
 
